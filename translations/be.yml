@@ -101,7 +101,7 @@ catalog:
   filters-dialog:
     free-only: Толькі бясплатныя
     language: Мова курса
-    language-values: "{lang, select,  be {Беларуская} ru {Руская} en {Англійская} other {Любая}}"
+    language-values: "{lang, select,  ru {Руская} en {Англійская} other {Любая}}"
     reset: Скінуць
     submit: Паказаць
     title: Фільтры
@@ -117,7 +117,7 @@ catalog:
   search-bar:
     free-only: Бясплатныя
     input-placeholder: Назва курса, аўтар або прадмет
-    language: "{lang, select,  be {На беларускай} ru {На рускай} en {На англійскай} other {На любой мове}}"
+    language: "{lang, select,  ru {На рускай} en {На англійскай} other {На любой мове}}"
     with-cert-only: З сертыфікатамі
   stepik-academy:
     about:
